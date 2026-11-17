@@ -1,6 +1,6 @@
 ## Explainer
 
-<!-- Link the HTML explainer page for this PR (private docs repo, <project>/explainers/pr<N>-<slug>.html). Required for every PR. -->
+<!-- Link the live /docs page of the HTML explainer for this PR (/docs/<project>/explainers/pr<N>-<slug>.html), not the GitHub source file. Required for every PR. -->
 
 - Page:
 - Video (optional):
